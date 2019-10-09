@@ -21,48 +21,49 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{szegedy2013intriguing}
-C.~Szegedy, W.~Zaremba, I.~Sutskever, J.~Bruna, D.~Erhan, I.~Goodfellow, and
-  R.~Fergus, ``Intriguing properties of neural networks,'' \emph{arXiv preprint
-  arXiv:1312.6199}, 2013.
+\bibitem{kingma2014semi}
+D.~P. Kingma, S.~Mohamed, D.~J. Rezende, and M.~Welling, ``Semi-supervised
+  learning with deep generative models,'' in \emph{Advances in neural
+  information processing systems}, 2014, pp. 3581--3589.
 
-\bibitem{43405}
-\BIBentryALTinterwordspacing
-I.~Goodfellow, J.~Shlens, and C.~Szegedy, ``Explaining and harnessing
-  adversarial examples,'' in \emph{International Conference on Learning
-  Representations}, 2015. [Online]. Available:
-  \url{http://arxiv.org/abs/1412.6572}
-\BIBentrySTDinterwordspacing
+\bibitem{berkhahn2019one}
+F.~Berkhahn, R.~Keys, W.~Ouertani, N.~Shetty, and D.~Gei{\ss}ler, ``One model
+  to rule them all,'' \emph{arXiv preprint arXiv:1908.03015}, 2019.
 
-\bibitem{fawzi2017classification}
-A.~Fawzi, S.-M. Moosavi-Dezfooli, P.~Frossard, and S.~Soatto, ``Classification
-  regions of deep neural networks,'' \emph{arXiv preprint arXiv:1705.09552},
-  2017.
+\bibitem{bengio2013representation}
+Y.~Bengio, A.~Courville, and P.~Vincent, ``Representation learning: A review
+  and new perspectives,'' \emph{IEEE transactions on pattern analysis and
+  machine intelligence}, vol.~35, no.~8, pp. 1798--1828, 2013.
 
-\bibitem{DBLP:journals/corr/abs-1808-05385}
-\BIBentryALTinterwordspacing
-Y.~Li, L.~Ding, and X.~Gao, ``On the decision boundary of deep neural
-  networks,'' \emph{CoRR}, vol. abs/1808.05385, 2018. [Online]. Available:
-  \url{http://arxiv.org/abs/1808.05385}
-\BIBentrySTDinterwordspacing
+\bibitem{blei2017variational}
+D.~M. Blei, A.~Kucukelbir, and J.~D. McAuliffe, ``Variational inference: A
+  review for statisticians,'' \emph{Journal of the American Statistical
+  Association}, vol. 112, no. 518, pp. 859--877, 2017.
 
-\bibitem{kurakin2016adversarial}
-A.~Kurakin, I.~Goodfellow, and S.~Bengio, ``Adversarial examples in the
-  physical world,'' \emph{arXiv preprint arXiv:1607.02533}, 2016.
+\bibitem{kingma2013auto}
+D.~P. Kingma and M.~Welling, ``Auto-encoding variational bayes,'' \emph{arXiv
+  preprint arXiv:1312.6114}, 2013.
 
-\bibitem{papernot2016limitations}
-N.~Papernot, P.~McDaniel, S.~Jha, M.~Fredrikson, Z.~B. Celik, and A.~Swami,
-  ``The limitations of deep learning in adversarial settings,'' in \emph{2016
-  IEEE European Symposium on Security and Privacy (EuroS\&P)}.\hskip 1em plus
-  0.5em minus 0.4em\relax IEEE, 2016, pp. 372--387.
+\bibitem{cheng2019semi}
+Y.~Cheng, ``Semi-supervised learning for neural machine translation,'' in
+  \emph{Joint Training for Neural Machine Translation}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Springer, 2019, pp. 25--40.
 
-\bibitem{madry2017towards}
-A.~Madry, A.~Makelov, L.~Schmidt, D.~Tsipras, and A.~Vladu, ``Towards deep
-  learning models resistant to adversarial attacks,'' \emph{arXiv preprint
-  arXiv:1706.06083}, 2017.
+\bibitem{chung2019semi}
+Y.-A. Chung, Y.~Wang, W.-N. Hsu, Y.~Zhang, and R.~Skerry-Ryan,
+  ``Semi-supervised training for improving data efficiency in end-to-end speech
+  synthesis,'' in \emph{ICASSP 2019-2019 IEEE International Conference on
+  Acoustics, Speech and Signal Processing (ICASSP)}.\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, 2019, pp. 6940--6944.
 
-\bibitem{sinha2017certifiable}
-A.~Sinha, H.~Namkoong, and J.~Duchi, ``Certifiable distributional robustness
-  with principled adversarial training,'' \emph{stat}, vol. 1050, p.~29, 2017.
+\bibitem{fergus2009semi}
+R.~Fergus, Y.~Weiss, and A.~Torralba, ``Semi-supervised learning in gigantic
+  image collections,'' in \emph{Advances in neural information processing
+  systems}, 2009, pp. 522--530.
+
+\bibitem{shi2011semi}
+M.~Shi and B.~Zhang, ``Semi-supervised learning improves gene expression-based
+  prediction of cancer recurrence,'' \emph{Bioinformatics}, vol.~27, no.~21,
+  pp. 3017--3023, 2011.
 
 \end{thebibliography}
